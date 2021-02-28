@@ -9,9 +9,12 @@ language.
 
 ## Document AI
 
-```shell script
-python read_with_document_ai.py <PROJECT-ID> <LOCATION-ID> <PROCESSOR-ID> <LOCAL-FILE-PATH>
-```
+- Official site: https://cloud.google.com/document-ai
+
+- Script to test:
+  ```shell script
+  python read_with_document_ai.py <PROJECT-ID> <LOCATION-ID> <PROCESSOR-ID> <LOCAL-FILE-PATH>
+  ```
 
 ### Document OCR Processor 
 
